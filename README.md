@@ -1,4 +1,4 @@
-# pwa-sample
+# PWA Sample: Weather Forecast
 
 PWA Sample Apps for cirebon dev kulgram 
 
